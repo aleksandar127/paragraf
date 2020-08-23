@@ -9,3 +9,6 @@ define('ROOT', ''); //ako je projekat u www folderu ostaviti prazan string, u su
 
 define("MAILTRAPUSER", "5ecea122e6ad38");
 define("MAILTRAPPASS", "f60d3c82257c97");
+
+
+//composer install
