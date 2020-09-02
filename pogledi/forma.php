@@ -11,10 +11,10 @@
 
 <body>
   <nav>
-    <a class="brand" href="../osiguranja/index"><span>P</span>utno <span>O</span>siguranje</a>
+    <a class="brand" href="<?php echo BASE.DIR ; ?>/osiguranja/index"><span>P</span>utno <span>O</span>siguranje</a>
     <ul>
-      <li><a href="../osiguranja/index">Polise</a></li>
-      <li><a href="../osiguranja/novapolisa">Nova Polisa</a></li>
+      <li><a href="<?php echo BASE.DIR ; ?>/osiguranja/index">Polise</a></li>
+      <li><a href="<?php echo BASE.DIR ; ?>/osiguranja/novapolisa">Nova Polisa</a></li>
     </ul>
   </nav>
 
